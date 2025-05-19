@@ -2,7 +2,7 @@
   "personal": {
     "name": "Chinmay Rajpurohit",
     "role": "Software Engineer",
-    "description": "I build exceptional and accessible digital experiences for the web.",
+    "description": "",
     "avatar": "/avatar.jpg",
     "location": "New delhi, India",
     "email": "chinmayrajpurohit0777@gmail.com",
@@ -20,20 +20,21 @@
   "about": {
     "title": "About Me",
     "description": "With a passion for both technology and design, I develop scalable, high-performance applications that captivate users and drive success.",
-    "resume": "/resume.pdf"
+    "resume": "/portfolio/resume.pdf"
   },
   "projects": [
     {
-      "title": "Project One",
-      "description": "A brief description of your project. This project demonstrates how to build a simple web application using React and TypeScript.",
+      "title": "Linux Kernel Module for Process Resource Monitoring",
+      "description": "Developed a Linux kernel module to track heap memory usage and open file counts for monitored processes.",
       "tags": [
-        "React",
-        "TypeScript",
-        "TailwindCSS"
+        "C",
+        "Linux",
+        "Bash",
+        "System Design"
       ],
-      "image": "https://placehold.co/600x400?text=Project+One",
-      "url": "https://project1.com",
-      "github": "https://github.com/username/project1"
+      "image": "https://github.com/chinmay-rajpurohit/Resource-Usage-Monitoring-Limiting-Linux-Kernel-6.1.6-/blob/main/images.jpeg?raw=true",
+      "url": "",
+      "github": "https://github.com/chinmay-rajpurohit/Resource-Usage-Monitoring-Limiting-Linux-Kernel-6.1.6-"
     }
   ],
   "skills": [
