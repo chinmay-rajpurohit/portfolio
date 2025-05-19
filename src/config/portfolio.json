@@ -1,0 +1,88 @@
+{
+  "personal": {
+    "name": "Chinmay Rajpurohit",
+    "role": "Software Engineer",
+    "description": "I build exceptional and accessible digital experiences for the web.",
+    "avatar": "/avatar.jpg",
+    "location": "New delhi, India",
+    "email": "chinmayrajpurohit0777@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/chinmay-rajpurohit"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/chinmay-rajpurohit-27b22317a/"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "With a passion for both technology and design, I develop scalable, high-performance applications that captivate users and drive success.",
+    "resume": "/resume.pdf"
+  },
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "A brief description of your project. This project demonstrates how to build a simple web application using React and TypeScript.",
+      "tags": [
+        "React",
+        "TypeScript",
+        "TailwindCSS"
+      ],
+      "image": "https://placehold.co/600x400?text=Project+One",
+      "url": "https://project1.com",
+      "github": "https://github.com/username/project1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "RISC-V"
+    },
+    {
+      "name": "Kernel Programming"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Wipro Limited",
+      "role": "Project Engineer - Trainee",
+      "startDate": "May 2022",
+      "endDate": "Nov 2022",
+      "responsibilities": [
+        "Worked on bug fixing, performance tuning, and module-level enhancements for enterprise applications in an agile development environment.",
+        "Test the product before delivering."
+      ]
+    },
+    {
+      "company": "Ditansource",
+      "role": "Frontend Developer Intern",
+      "startDate": "Jun 2021",
+      "endDate": "Sep 2021",
+      "responsibilities": [
+        "Designed and developed key pages like the homepage, product listings, and user dashboards with a focus on clean layout and usability across devices.",
+        "Worked closely with backend developers to connect frontend components with APIs, making sure data like products and user info loaded smoothly.",
+        "Improved the user experience for both buyers and sellers by simplifying navigation, fixing layout issues, and adding small but useful features."
+      ]
+    }
+  ]
+}
