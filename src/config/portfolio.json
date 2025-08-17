@@ -35,6 +35,32 @@
       "image": "https://github.com/chinmay-rajpurohit/Resource-Usage-Monitoring-Limiting-Linux-Kernel-6.1.6-/blob/main/images.jpeg?raw=true",
       "url": "",
       "github": "https://github.com/chinmay-rajpurohit/Resource-Usage-Monitoring-Limiting-Linux-Kernel-6.1.6-"
+    },
+    {
+      "title": "Cloud-Based Encrypted Password Manager",
+      "description": "Built a secure, cloud-hosted password manager using Microsoft Azure for both storage and authentication. Incorporated strong encryption to maintain data privacy. Engineered a scalable system for safe credential management with controlled access and retrieval. Leveraged Azure cloud services to improve security, reliability, and performance for practical deployment.",
+      "tags": [
+        "Cloud Computing",
+        "Network Security",
+        "Web Application Development",
+        "Security System Design"
+      ],
+      "image": "https://github.com/chinmay-rajpurohit/datasets/blob/main/cloud.png?raw=true",
+      "url": "",
+      "github": "https://github.com/SurajNatekar28/password-manager-frontend"
+    },
+    {
+      "title": "Social Media Analysis for Disaster Management Using Graph Neural Networks",
+      "description": "Examined the role of social media in disaster response by analyzing real-time data using Graph Neural Networks (GNNs). Applied GraphSAGE, GCN, and GAT for classification, along with sentiment analysis and topic modeling to extract critical insights. Focused on text preprocessing, graph-based learning, and disaster-related social media trends.",
+      "tags": [
+        "Graph Neural Networks",
+        "Sentiment Analysis",
+        "Python",
+        "Topic Modeling"
+      ],
+      "image": "",
+      "url": "",
+      "github": "https://github.com/chinmay-rajpurohit/GRAPHML_Project/blob/main/SNA_Project.ipynb"
     }
   ],
   "skills": [
